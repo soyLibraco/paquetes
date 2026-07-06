@@ -12,4 +12,5 @@ flowchart TD
     B --> |Sí| C[Llevar paraguas]
     B --> |No| D[Salir sin paraguas]
     C --> E[Fin]
+    D --> E
 ```
